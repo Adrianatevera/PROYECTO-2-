@@ -1,0 +1,12 @@
+body{
+    background-color: #FFDF5D  ;
+    font-family: Times New Roman, Helvetica, Arial, sans-serif;
+    font-size: 22px;
+}
+
+.contenedor{
+    padding:60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;    
